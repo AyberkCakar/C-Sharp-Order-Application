@@ -1,0 +1,266 @@
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.exe.licenses
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.CopyComplete
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.Login.resources
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.Yonetici.resources
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.UI.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.UI.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.Kayıt.resources
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.OdemeGortuntule.resources
+C:\Users\ASUS\source\repos\OkulProje\OkulProje\obj\Debug\OkulProje.AnaMenü.resources
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.UI.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.UI.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.AnaMenü.resources
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.Kayıt.resources
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.Login.resources
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.OdemeGortuntule.resources
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.Yonetici.resources
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.exe.licenses
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\ASUS\Desktop\Sipariş Proje\SiparisVerme_MehmetAyberkCakar_172802039\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
